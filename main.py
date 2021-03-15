@@ -3,7 +3,7 @@ from argparse import ArgumentParser
 import requests
 
 URL = 'https://api.macaddress.io/v1'
-API_KEY = 'at_VCCT12wgYrxXg6EkICN6VG6n60SvP'
+API_KEY = ''
 
 def get_company_name(args_):
     '''Returns Company name'''
